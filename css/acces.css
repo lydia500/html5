@@ -74,7 +74,7 @@ main section {
 	
 }
 footer {
-	background: #0018ff;
+	background: #808cff;
 	max-width: 1000px;
 	margin: auto;
 	clear: both;
@@ -88,7 +88,7 @@ address {
 }
 aside > div {
 	margin: 10px auto;
-	background: #0018ff;
+	background: #808cff;
 	min-height: 100px;
 }
 #logo {
