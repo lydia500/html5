@@ -1,6 +1,35 @@
 <!doctype html>
 <html lang="en" class="no-js">
 <head>
+	<link rel="stylesheet" href="touchgallery.css" />
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.touchSwipe.min.js"></script>
+
+<script src="touchgallery.js">
+
+/***********************************************
+* Touch Image Gallery- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* Please keep this notice intact
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+***********************************************/
+
+</script>
+
+<script>
+
+jQuery(function(){ // on DOM load
+		$('div#touchgallery1').touchgallery({  // initialize first demo
+			width: 250,
+			height: 200
+		})
+		$('div#touchgallery2').touchgallery({  // initialize second demo
+			width: 400,
+			height: 350
+		})
+	})
+
+</script>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
