@@ -27,9 +27,10 @@ nav {
     display: inline-block;
 }
 nav.sticky {
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
+	position: -webkit-sticky; /* Safari */
+	position: sticky;
+	top: 0;
+	padding: 5px;
 }
 nav ul li a {
     background: #0b757f;
