@@ -98,7 +98,7 @@ body > section {
     margin: auto;
     padding: 30px 0px;
     border-bottom: 1px solid #999;
-    color: #333;
+    color: #fdb315;
 }
 
 @media screen and (max-width: 1000px) {
