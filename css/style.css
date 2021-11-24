@@ -25,6 +25,12 @@ header {
 }
 nav {
     display: inline-block;
+div.sticky {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  border: 2px solid #4CAF50;
+}
 }
 nav ul li a {
     background: #0b757f;
