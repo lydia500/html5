@@ -76,6 +76,9 @@ footer {
 	clear: both;
 	text-align: left;
 }
+footer p {
+	padding: 20px;
+}
 address {
     padding: 10px 20px 30px 10px;
 	color: #fdb315;
