@@ -81,6 +81,7 @@ footer p {
 }
 address {
     padding: 10px 20px 30px 10px;
+	color: #fdb315;
 }
 #logo {
     display: inline-block;
