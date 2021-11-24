@@ -52,7 +52,7 @@ nav ul {
 }
 main {
 	float: left;
-	width: 60%;
+	width: 100%;
 }
 article {
     border-bottom: 2px dotted #999;
