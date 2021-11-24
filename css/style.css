@@ -87,6 +87,7 @@ footer p {
 address {
     	padding: 10px 20px 30px 10px;
 	background: #021719;
+	max-width: 1000px;
 	color: #fdb315;
 	float: left;
 }
