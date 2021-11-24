@@ -50,7 +50,7 @@ nav ul {
     margin: auto;
     border: none;
 }
-div.sticky {
+nav.sticky {
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
