@@ -89,6 +89,9 @@ footer2 p {
 	color: #ffffff;
 	font-size: 20px;
 }
+footer2 form {
+	color: #ffffff;
+}
 address {
     	padding: 10px 20px 30px 10px;
 	background: #021719;
