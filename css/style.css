@@ -82,6 +82,7 @@ footer {
 	clear: both;
 	text-align: left;
 	max-height: 150px;
+	float: left;
 }
 footer p {
 	padding: 2px;
@@ -90,16 +91,16 @@ footer2 p {
 	color: #000000;
 	font-size: 20px;
 	max-width: 150px;
-	text-align: left;
+	float: left;
 }
 footer2 form {
 	color: #000000;
 	max-width: 150px;
-	text-align: left;
+	float: left;
 }
 footer3 p {
 	color: #ffffff;
-	text-align: right;
+	float: right;
 }
 address {
     	padding: 10px 20px 30px 10px;
