@@ -23,6 +23,9 @@ header {
     max-width: 940px;
     margin: auto;
 }
+strong {
+	margin: auto;
+}
 nav {
     display: inline-block;
 }
@@ -90,6 +93,7 @@ footer2 {
 	float: left;
 	background: #021719;
 	max-width: 500px;
+}
 footer2 p {
 	color: #ffffff;
 	font-size: 22px;
@@ -108,6 +112,7 @@ footer3 {
 footer3 p {
 	color: #ffffff;
 	font-size: 22px;
+}
 address {
     	padding: 10px 20px 30px 10px;
 	background: #021719;
