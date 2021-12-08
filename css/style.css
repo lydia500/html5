@@ -86,27 +86,35 @@ footer {
 footer p {
 	padding: 2px;
 }
+footer2 {
+	float: left;
+	background: #021719;
+	max-width: 500px;
 footer2 p {
 	color: #ffffff;
-	font-size: 20px;
-	max-width: 150px;
-	float: left;
+	font-size: 22px;
 }
 footer2 form {
-	color: #ffffff;
-	max-width: 150px;
 	float: left;
+	background: #021719;
+	width: 35%;
 }
 footer3 {
-	color: #ffffff;
-	float: right;
+	float: left;
+	text-align: right;
+	background: #021719;
+	width: 43%
 }
+footer3 p {
+	color: #ffffff;
+	font-size: 22px;
 address {
     	padding: 10px 20px 30px 10px;
 	background: #021719;
-	max-width: 150px;
+	max-width: 1000px;
 	color: #fdb315;
 	float: left;
+	width: 25%;
 }
 table {
   font-family: arial, sans-serif;
